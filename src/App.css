@@ -1,0 +1,24 @@
+.leaflet-container {
+  width: 100vw;
+  height: 100vh;
+}
+.slide-pane__title-wrapper {
+  display: none !important;
+}
+
+.leaflet-popup {
+  cursor: pointer;
+}
+
+.slide-pane__content {
+  overflow-y: visible !important;
+}
+
+.slide-pane__header {
+  background: transparent !important;
+  border-bottom: 0px !important;
+}
+
+.slide-pane {
+  width: 100% !important;
+}

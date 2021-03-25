@@ -1,0 +1,883 @@
+{
+    "venues": [
+        {
+            "description": "Adirampattinam, Pattukkottai",
+            "name": "Pattukkottai",
+            "geometry": [
+                10.35,
+				79.416667
+            ]
+        },
+        {
+            "description": "Ambasamudram",
+            "name": "Ambasamudram",
+            "geometry": [
+			 8.716667,
+                77.483333
+            ]
+        },{
+            "description": "Adirampattinam, Pattukkottai",
+            "name": "Ambur",
+            "geometry": [
+                21.833333,
+				78.75
+            ]
+        },
+        {
+            "description": "Anaimalai Hills",
+            "name": "Anaimalai Hills",
+            "geometry": [
+				10.4,
+                76.666667
+            ]
+        },
+		{
+            "description": "Arakkonam",
+            "name": "Arakkonam",
+            "geometry": [
+                13.083333,
+				79.716667
+            ]
+        },
+        {
+            "description": "Arantangi",
+            "name": "Arantangi",
+            "geometry": [
+			 10.166667,
+                79.033333
+            ]
+        },
+		{
+            "description": "Arcot",
+            "name": "Arcot",
+            "geometry": [
+                12.933333,
+				79.4
+            ]
+        },
+        {
+            "description": "Arni",
+            "name": "Arni",
+            "geometry": [
+			 12.666667,
+                79.316667
+            ]
+        },
+		{
+            "description": "Aruppukkotai",
+            "name": "Aruppukkotai",
+            "geometry": [
+                9.516667,
+				78.133333
+            ]
+        },
+        {
+            "description": "Attur",
+            "name": "Attur",
+            "geometry": [
+			 11.6,
+                78.65
+            ]
+        },
+		{
+            "description": "Atur",
+            "name": "Atur",
+            "geometry": [
+                10.266667,
+				77.883333
+            ]
+        },
+        {
+            "description": "Bodinayakkanur",
+            "name": "Bodinayakkanur",
+            "geometry": [
+			 10.016667,
+                77.4
+            ]
+        },
+		{
+            "description": "Calimere, Point",
+            "name": "Calimere, Point",
+            "geometry": [
+                10.3,
+				79.866667
+            ]
+        },
+        {
+            "description": "Carnatic",
+            "name": "Carnatic",
+            "geometry": [
+				12,
+                80
+            ]
+        },
+		{
+            "description": "Chidambaram",
+            "name": "Chidambaram",
+            "geometry": [
+                11.4,
+				79.733333
+            ]
+        },
+        {
+            "description": "Chingleput",
+            "name": "Chingleput",
+            "geometry": [
+			 12.7,
+                80.016667
+            ]
+        },
+		{
+            "description": "Coimbatore",
+            "name": "Coimbatore",
+            "geometry": [
+                11,
+				77
+            ]
+        },
+        {
+            "description": "Comorin, C.",
+            "name": "Comorin, C.",
+            "geometry": [
+			 8.066667,
+                77.6
+            ]
+        },
+		{
+            "description": "Coromandel Coast",
+            "name": "Coromandel Coast",
+            "geometry": [
+                12,
+				80.5
+            ]
+        },
+        {
+            "description": "Cuddalore",
+            "name": "Cuddalore",
+            "geometry": [
+			 11.716667,
+                79.816667
+            ]
+        },
+		{
+            "description": "Devakottai",
+            "name": "Devakottai",
+            "geometry": [
+                9.95,
+				78.883333
+            ]
+        },
+        {
+            "description": "Dhanushkodi",
+            "name": "Dhanushkodi",
+            "geometry": [
+			 9.166667,
+                79.466667
+            ]
+        },
+		{
+            "description": "Dharapuram",
+            "name": "Dharapuram",
+            "geometry": [
+                10.75,
+				77.566667
+            ]
+        },
+        {
+            "description": "Dharmapuri",
+            "name": "Dharmapuri",
+            "geometry": [
+			 12.133333,
+                78.216667
+            ]
+        },
+		{
+            "description": "Dindigul",
+            "name": "Dindigul",
+            "geometry": [
+                10.366667,
+				78
+            ]
+        },
+        {
+            "description": "Dodabetta. Mt.",
+            "name": "Dodabetta. Mt.",
+            "geometry": [
+			 11.416667,
+                76.766667
+            ]
+        },
+        {
+            "description": "Ennore",
+            "name": "Ennore",
+            "geometry": [
+			 13.233333,
+                80.366667
+            ]
+        },
+		{
+            "description": "Erode",
+            "name": "Erode",
+            "geometry": [
+                11.333333,
+				77.766667
+            ]
+        },
+        {
+            "description": "Fort St David",
+            "name": "Fort St David",
+            "geometry": [
+			 11.75,
+                79.833333
+            ]
+        },
+        {
+            "description": "Fort St George",
+            "name": "Fort St George",
+            "geometry": [
+			 13.066667,
+                80.283333
+            ]
+        },
+		{
+            "description": "Gudiyatam",
+            "name": "Gudiyatam",
+            "geometry": [
+                12.95,
+				78.916667
+            ]
+        },
+        {
+            "description": "Hospur",
+            "name": "Hospur",
+            "geometry": [
+			 12.733333,
+                77.866667
+            ]
+        },
+        {
+            "description": "Jalarpet",
+            "name": "Jalarpet",
+            "geometry": [
+			 12.566667,
+                78.616667
+            ]
+        },
+		{
+            "description": "Javadi hills",
+            "name": "Javadi hills",
+            "geometry": [
+                12.666667,
+				78.666667
+            ]
+        },
+        {
+            "description": "Kanchipuram",
+            "name": "Kanchipuram",
+            "geometry": [
+			 12.833333,
+                79.75
+            ]
+        },
+        {
+            "description": "Karur",
+            "name": "Karur",
+            "geometry": [
+			 10.966667,
+                78.116667
+            ]
+        },
+		{
+            "description": "Kaveri R.",
+            "name": "Kaveri R.",
+            "geometry": [
+                11.333333,
+				77.833333
+            ]
+        },
+        {
+            "description": "Kayalpatnam",
+            "name": "Kayalpatnam",
+            "geometry": [
+			 8.566667,
+                78.166667
+            ]
+        },
+        {
+            "description": "Kilakarai",
+            "name": "Kilakarai",
+            "geometry": [
+			 9.233333,
+                78.833333
+            ]
+        },
+		{
+            "description": "Kodaikanal",
+            "name": "Kodaikanal",
+            "geometry": [
+                10.216667,
+				77.533333
+            ]
+        },
+        {
+            "description": "Krishnagiri",
+            "name": "Krishnagiri",
+            "geometry": [
+			 12.533333,
+                78.266667
+            ]
+        },
+		{
+            "description": "Kumbakonam",
+            "name": "Kumbakonam",
+            "geometry": [
+                10.966667,
+				79.416667
+            ]
+        },
+        {
+            "description": "Madras (Chennai)",
+            "name": "Madras (Chennai)",
+            "geometry": [
+			 13.066667,
+                80.283333
+            ]
+        },{
+            "description": "Madurai",
+            "name": "Madurai",
+            "geometry": [
+                9.966667,
+				78.166667
+            ]
+        },
+        {
+            "description": "Madurantakam",
+            "name": "Madurantakam",
+            "geometry": [
+				12.5,
+                79.933333
+            ]
+        },
+		{
+            "description": "Mahabalipuram",
+            "name": "Mahabalipuram",
+            "geometry": [
+                12.616667,
+				80.233333
+            ]
+        },
+        {
+            "description": "Mannargudi",
+            "name": "Mannargudi",
+            "geometry": [
+			 10.666667,
+                79.483333
+            ]
+        },
+		{
+            "description": "Mayuram",
+            "name": "Mayuram",
+            "geometry": [
+                11.1,
+				79.7
+            ]
+        },
+        {
+            "description": "Mettupalaiyam",
+            "name": "Mettupalaiyam",
+            "geometry": [
+			 11.3,
+                76.983333
+            ]
+        },
+		{
+            "description": "Mettur Dam",
+            "name": "Mettur Dam",
+            "geometry": [
+                11.866667,
+				77.833333
+            ]
+        },
+        {
+            "description": "Nagarjunasagar Dam",
+            "name": "Nagarjunasagar Dam",
+            "geometry": [
+			 16.833333,
+               79.333333
+            ]
+        },
+		{
+            "description": "Nagercoil",
+            "name": "Nagercoil",
+            "geometry": [
+                8.183333,
+				77.483333
+            ]
+        },
+        {
+            "description": "Namakkal",
+            "name": "Namakkal",
+            "geometry": [
+			 11.216667,
+                78.216667
+            ]
+        },
+		{
+            "description": "Nanguneri",
+            "name": "Nanguneri",
+            "geometry": [
+                8.483333,
+				77.733333
+            ]
+        },
+        {
+            "description": "Neiveli",
+            "name": "Neiveli",
+            "geometry": [
+				10.516667,
+                79.4
+            ]
+        },
+		{
+            "description": "Pachaimalai Hills",
+            "name": "Pachaimalai Hills",
+            "geometry": [
+                11.25,
+				78.05
+            ]
+        },
+        {
+            "description": "Padmanabhapuram",
+            "name": "Padmanabhapuram",
+            "geometry": [
+			 9.1,
+                76.083333
+            ]
+        },
+		{
+            "description": "Palayankottai",
+            "name": "Palayankottai",
+            "geometry": [
+                8.716667,
+				77.766667
+            ]
+        },
+        {
+            "description": "Palladam",
+            "name": "Palladam",
+            "geometry": [
+			 10.983333,
+                77.033333
+            ]
+        },
+		{
+            "description": "Pallavaram",
+            "name": "Pallavaram",
+            "geometry": [
+                12.966667,
+				80.216667
+            ]
+        },
+        {
+            "description": "Pallivasal",
+            "name": "Pallivasal",
+            "geometry": [
+			 9.916667,
+                77
+            ]
+        },
+		{
+            "description": "Palni Hills",
+            "name": "Palni Hills",
+            "geometry": [
+                10,
+				77
+            ]
+        },
+        {
+            "description": "Panruti",
+            "name": "Panruti",
+            "geometry": [
+			 11.783333,
+                79.583333
+            ]
+        },
+		{
+            "description": "Paramakkudi",
+            "name": "Paramakkudi",
+            "geometry": [
+                9.516667,
+				78.65
+            ]
+        },
+        {
+            "description": "Pattukkottai",
+            "name": "Pattukkottai",
+            "geometry": [
+			 10.433333,
+                79.366667
+            ]
+        },
+		{
+            "description": "Perambalur",
+            "name": "Perambalur",
+            "geometry": [
+                11.233333,
+				78.933333
+            ]
+        },
+        {
+            "description": "Periyakulam",
+            "name": "Periyakulam",
+            "geometry": [
+			 10.116667,
+               77.583333
+            ]
+        },
+        {
+            "description": "Pollachi",
+            "name": "Pollachi",
+            "geometry": [
+			 10.65,
+                77.05
+            ]
+        },
+		{
+            "description": "Ponneri",
+            "name": "Ponneri",
+            "geometry": [
+                13.033333,
+				80.25
+            ]
+        },
+        {
+            "description": "Porto Novo",
+            "name": "Porto Novo",
+            "geometry": [
+			 11.05,
+                79.8
+            ]
+        },
+        {
+            "description": "Pudukkottal",
+            "name": "Pudukkottal",
+            "geometry": [
+			 10.383333,
+                78.866667
+            ]
+        },
+		{
+            "description": "Pulicat, L.",
+            "name": "Pulicat, L.",
+            "geometry": [
+                13.416667,
+				80.35
+            ]
+        },
+        {
+            "description": "Rajapalayam",
+            "name": "Rajapalayam",
+            "geometry": [
+			 9.45,
+                77.6
+            ]
+        },
+        {
+            "description": "Ramanathapuram",
+            "name": "Ramanathapuram",
+            "geometry": [
+			 9.366667,
+                78.866667
+            ]
+        },
+		{
+            "description": "Rameswaram",
+            "name": "Rameswaram",
+            "geometry": [
+                9.283333,
+				79.366667
+            ]
+        },
+        {
+            "description": "Salem",
+            "name": "Salem",
+            "geometry": [
+			 11.65,
+                78.2
+            ]
+        },
+        {
+            "description": "Sankaranayinarkovil",
+            "name": "Sankaranayinarkovil",
+            "geometry": [
+			 9.016667,
+                77.583333
+            ]
+        },
+		{
+            "description": "Sattur",
+            "name": "Sattur",
+            "geometry": [
+                9.35,
+				77.966667
+            ]
+        },
+        {
+            "description": "Satyamangalam",
+            "name": "Satyamangalam",
+            "geometry": [
+			 11.05,
+                77.283333
+            ]
+        },
+        {
+            "description": "Seven Pagodas",
+            "name": "Seven Pagodas",
+            "geometry": [
+			 12.616667,
+                80.233333
+            ]
+        },
+		{
+            "description": "shencottah",
+            "name": "shencottah",
+            "geometry": [
+                8.983333,
+				77.3
+            ]
+        },
+        {
+            "description": "shevaroy Hills",
+            "name": "shevaroy Hills",
+            "geometry": [
+			 0.2,
+                78.05
+            ]
+        },
+		{
+            "description": "St. Thomas Mount",
+            "name": "St. Thomas Mount",
+            "geometry": [
+                0.216667,
+				80.233333
+            ]
+        },
+        {
+            "description": "Tenkasi",
+            "name": "Tenkasi",
+            "geometry": [
+			 8.966667,
+               77.35
+            ]
+        },
+        {
+            "description": "Thanjavur (Tanjore)",
+            "name": "Thanjavur (Tanjore)",
+            "geometry": [
+			 10.783333,
+                79.166667
+            ]
+        },
+		{
+            "description": "Tindivanam",
+            "name": "Tindivanam",
+            "geometry": [
+                12.233333,
+				79.7
+            ]
+        },
+        {
+            "description": "Tiruchchirappalli",
+            "name": "Tiruchchirappalli",
+            "geometry": [
+			 10.833333,
+                78.766667
+            ]
+        },
+        {
+            "description": "Tiruchendur",
+            "name": "Tiruchendur",
+            "geometry": [
+			 8.5,
+                78.183333
+            ]
+        },
+		{
+            "description": "Tiruchengodu",
+            "name": "Tiruchengodu",
+            "geometry": [
+                11.383333,
+				77.933333
+            ]
+        },
+        {
+            "description": "Tirukkoyilur",
+            "name": "Tirukkoyilur",
+            "geometry": [
+			11.966667,
+                79.25
+            ]
+        },
+        {
+            "description": "Tirumangalam",
+            "name": "Tirumangalam",
+            "geometry": [
+			 9.816667,
+                79.016667
+            ]
+        },
+		{
+            "description": "Tirunelveli",
+            "name": "Tirunelveli",
+            "geometry": [
+               8.733333,
+				77.733333
+            ]
+        },
+        {
+            "description": "Tiruppur",
+            "name": "Tiruppur",
+            "geometry": [
+			 11.083333,
+                77.333333
+            ]
+        },
+        {
+            "description": "Tiruvallur",
+            "name": "Tiruvallur",
+            "geometry": [
+			 13.15,
+                79.95
+            ]
+        },
+		{
+            "description": "Tiruvannamalai",
+            "name": "Tiruvannamalai",
+            "geometry": [
+                12.25,
+				79.116667
+            ]
+        },
+        {
+            "description": "Tondi",
+            "name": "Tondi",
+            "geometry": [
+			 9.75,
+                79.066667
+            ]
+        },
+        {
+            "description": "Tranquebar",
+            "name": "Tranquebar",
+            "geometry": [
+			 11.016667,
+                79.9
+            ]
+        },
+		{
+            "description": "Turaiyur",
+            "name": "Turaiyur",
+            "geometry": [
+                11.15,
+				78.633333
+            ]
+        },
+        {
+            "description": "Tuticorin",
+            "name": "Tuticorin",
+            "geometry": [
+			 8.8,
+               78.183333
+            ]
+        },
+		{
+            "description": "Udagamandalam",
+            "name": "Udagamandalam",
+            "geometry": [
+			 11.4,
+                76.733333
+            ]
+        },
+		{
+            "description": "Udamalpet",
+            "name": "Udamalpet",
+            "geometry": [
+               10.6,
+				77.283333
+            ]
+        },
+        {
+            "description": "Udiyarpalaiyam",
+            "name": "Udiyarpalaiyam",
+            "geometry": [
+			 11.183333,
+               79.333333
+            ]
+        },
+        {
+            "description": "Uttangarai",
+            "name": "Uttangarai",
+            "geometry": [
+			 12.266667,
+                78.583333
+            ]
+        },
+		{
+            "description": "Vaniyambadi",
+            "name": "Vaniyambadi",
+            "geometry": [
+                12.683333,
+				78.65
+            ]
+        },
+        {
+            "description": "Vellore",
+            "name": "Vellore",
+            "geometry": [
+			 12.916667,
+                79.183333
+            ]
+        },
+        {
+            "description": "Villupuram",
+            "name": "Villupuram",
+            "geometry": [
+			 11.95,
+                79.533333
+            ]
+        },
+		{
+            "description": "Virudhunagar",
+            "name": "Virudhunagar",
+            "geometry": [
+                9.583333,
+				77.95
+            ]
+        },
+        {
+            "description": "Vriddhachalam",
+            "name": "Vriddhachalam",
+            "geometry": [
+			 11.533333,
+              79.4
+            ]
+        },
+		{
+            "description": "Wandiwash",
+            "name": "Wandiwash",
+            "geometry": [
+                12.5,
+				79.5
+            ]
+        },
+        {
+            "description": "Yercaud",
+            "name": "Yercaud",
+            "geometry": [
+			 11.8,
+              78.216667
+            ]
+        }
+        
+    ]
+}
